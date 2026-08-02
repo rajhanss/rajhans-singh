@@ -1,0 +1,3 @@
+# Certifications
+
+Certifications and credentials.
